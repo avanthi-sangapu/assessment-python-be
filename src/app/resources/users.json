@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "username": "avanthisangapu1",
+        "email": "sangapuavanthi@gmail.com",
+        "password": "$2b$12$H8ucgyeYnE99H5zgclt2wufx5gJoyhJqcRWQH6o8mtQnC2AA.ILKW",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "username": "avanthi",
+        "email": "sangapuavanthi@gmail.com",
+        "password": "$2b$12$izftV09SN4gCifnd70c7e.CXnTa/muzLLmLLaLE8TgbVvGlWpujpS",
+        "role": "read-only"
+    },
+    {
+        "id": 3,
+        "username": "alice1",
+        "email": "example",
+        "password": "$2b$12$5RnKbt0bJqh7NiBqLzFIteron8xPOhOcjIuPXe.DpebvaGtC4/zBy",
+        "role": "admin"
+    },
+    {
+        "id": 4,
+        "username": "Avanthi",
+        "email": "testemail",
+        "password": "$2b$12$SQUrb8MsFqxPg9cKwzA3gOn1ABn0.CggFp5xAEN3B7kWRHRwBYDI.",
+        "role": "testrole"
+    },
+    {
+        "id": 5,
+        "username": "avanthisangapu1121",
+        "email": "sangapuavanthi@gmail.com",
+        "password": "$2b$12$vnP8b7yAAla0f2Z4LlXXw.Uo6U9DlDaQJtnEG43yw17czgsIevdae",
+        "role": "admin"
+    },
+    {
+        "id": 6,
+        "username": "avanthisangapu1122",
+        "email": "sangapuavanthi@gmail.com",
+        "password": "$2b$12$zL7mUFXOyesJ4JbBcBt/cOnUoeAg4JKdcjLah9qyamaXesZvOxu.G",
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "username": "avanthisangapu11211",
+        "email": "sangapuavanthi@gmail.com",
+        "password": "$2b$12$RDYX32aJYTO5FBEIBLw2MuhTDVt.Y7.w62.Bp2LcJtZi6x9YQ0k3u",
+        "role": "admin"
+    }
+]
